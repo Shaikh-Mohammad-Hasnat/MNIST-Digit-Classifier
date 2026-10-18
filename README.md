@@ -2,6 +2,10 @@
 
 A PyTorch neural network that recognises handwritten digits (0–9), with a small Tkinter canvas where you draw a digit and the model predicts it.
 
+![Predictions](docs/predictions.png)
+
+*Predictions of the saved model on random MNIST test digits.*
+
 ## Results
 
 | Model | Test accuracy |
@@ -36,4 +40,4 @@ jupyter notebook MNIST-Digit-Predictor/Load_mnsit.ipynb
 - Package the drawing app as a standalone `.py` script.
 
 ## Author
-Shaikh Mohammad Hasnat, [GitHub](https://github.com/Shaikh-Mohammad-Hasnat)
+Shaikh Mohammad Hasnat, [GitHub](https://github.com/Shaikh-Mohammad-Hasnat), [LinkedIn](https://www.linkedin.com/in/shaikh-mohammad-hasnat-698a08335)
